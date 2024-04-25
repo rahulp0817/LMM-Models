@@ -13,7 +13,7 @@ icon.show_icon(":foggy:")
 st.markdown("# :rainbow[Text-to-Image ]")
 
 # API Tokens and endpoints from `.streamlit/secrets.toml` file
-REPLICATE_API_TOKEN = "r8_QD4TVaUiE7VhAzdoyYYFUxDFMSqnHKc0ziloa"
+REPLICATE_API_TOKEN = st.secrets["API TOKEN"]
 REPLICATE_MODEL_ENDPOINTSTABILITY = st.secrets["REPLICATE_MODEL_ENDPOINTSTABILITY"]
 
 
