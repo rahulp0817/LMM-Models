@@ -1,4 +1,4 @@
-# LMM-Models
+# LLM-Models
 Advanced machine learning models 
 
 ![imagechatbot2](https://github.com/user-attachments/assets/6171e296-ff8d-4964-be33-f4906b1fe506)
